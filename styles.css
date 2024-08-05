@@ -1,12 +1,12 @@
 #yellow{
 	background:yellow;
-	border-width:1px  green;
+	border-width:1px solid green;
 }
 #red{
 	background:red;
-	border-width:1px  black;
+	border-width:1px  solid black;
 }
 #green{
 	background:green;
-	border-width:1px  yellow;
+	border-width:1px solid yellow;
 }
